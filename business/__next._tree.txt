@@ -1,4 +1,4 @@
-:HL["/florart-demo/_next/static/chunks/0c4ep1q5fzxy5.css","style"]
+:HL["/florart-demo/_next/static/chunks/1eb1ezl-e5k6_.css","style"]
 :HL["/florart-demo/_next/static/media/276a8f4fe816cb6b-s.p.2v2sz4qlut9s1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/florart-demo/_next/static/media/2810fda8f234eb20-s.p.2c0pkezzij_il.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/florart-demo/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -8,4 +8,4 @@
 :HL["/florart-demo/_next/static/media/fdbf446d127afa2d-s.p.1xjn85gt7t6qs.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"business","h":96,"c":"$Q2"}]]
-0:{"b":"7nMzf0WmcvEfEWqjeM-Tb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"vmmXBuyWYftzEzXngOTAg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
