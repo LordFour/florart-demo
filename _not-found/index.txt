@@ -1,31 +1,36 @@
 1:"$Sreact.fragment"
 2:"/florart-demo/_next/static/chunks/1dinyui0_qahb.js"
-3:"/florart-demo/_next/static/chunks/2tkchnsidx5pd.js"
-4:I[18589,["$2","$3"],"AppProvider"]
-5:I[9616,["$2","$3"],"SiteHeader"]
-6:I[39756,["$2","$3"],"default"]
-7:I[37457,["$2","$3"],"default"]
-8:"/florart-demo/_next/static/chunks/3_gtx7kcy2umc.js"
-9:I[36768,["$2","$3","$8"],"default"]
-a:I[37323,["$2","$3"],"MotionRoot"]
-b:I[30023,["$2","$3"],"SiteFooter"]
-f:I[47257,["$2","$3"],"ClientPageRoot"]
-12:I[97367,["$2","$3"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:"ViewportBoundary"
-16:I[97367,["$2","$3"],"$15"]
-18:"MetadataBoundary"
-19:I[97367,["$2","$3"],"$18"]
-1b:I[68027,["$2","$3"],"default",1]
-:HL["/florart-demo/_next/static/chunks/3s3ptnr-z2tha.css","style"]
-d:X
-e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Lf",null,{"Component":"$9","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@10","$@11"]}}],[["$","script","script-0",{"src":"/florart-demo/_next/static/chunks/3_gtx7kcy2umc.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":false,"v":null}}]]
-c:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$d"},"c":"$Qe"}]]
-0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/florart-demo/_next/static/chunks/3s3ptnr-z2tha.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/florart-demo/_next/static/chunks/1dinyui0_qahb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/florart-demo/_next/static/chunks/2tkchnsidx5pd.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"CM3n8W_variable _3wqnqW_variable -3mNba_variable","children":["$","body",null,{"className":"min-h-dvh bg-ivory text-ink antialiased","children":["$","$L4",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Перейти к содержимому"}],["$","$L5",null,{}],["$","main",null,{"id":"main","className":"min-h-[60dvh]","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L9",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}],["$","$Lb",null,{}]]}]}]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L16",null,{"children":"$L17"}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":"$L1a"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1b",[["$","link","0",{"rel":"stylesheet","href":"/florart-demo/_next/static/chunks/3s3ptnr-z2tha.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"87K0p-6o4qlwt6DV499uV"}
-d:C
-10:{}
-11:"$e:0:1:d:r:props:children:0:props:serverProvidedParams:params"
-17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F2ECE1"}]]
-1c:I[27201,["$2","$3"],"IconMark"]
-14:null
-1a:[["$","title","0",{"children":"Florart — Цветы говорят за вас"}],["$","meta","1",{"name":"description","content":"Florart — авторские букеты и цветочные композиции в Кишинёве с 1998 года. Концепт редизайна: каталог, Florart Moments, персональный флорист."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Florart — Цветы говорят за вас"}],["$","meta","4",{"property":"og:description","content":"Авторская флористика в Кишинёве с 1998 года."}],["$","meta","5",{"property":"og:locale","content":"ru_MD"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Florart — Цветы говорят за вас"}],["$","meta","9",{"name":"twitter:description","content":"Авторская флористика в Кишинёве с 1998 года."}],["$","link","10",{"rel":"icon","href":"/florart-demo/icon.svg"}],["$","$L1c","11",{}]]
+3:"/florart-demo/_next/static/chunks/1f3slhwgpkx_6.js"
+4:"/florart-demo/_next/static/chunks/3_mt4lsx5co6v.js"
+5:"/florart-demo/_next/static/chunks/2jwlz_nlmx9um.js"
+6:I[18589,["$2","$3","$4","$5"],"AppProvider"]
+7:I[9616,["$2","$3","$4","$5"],"SiteHeader"]
+8:I[52004,["$2","$3","$4","$5"],"ScrollProgress"]
+9:I[39756,["$2","$3","$4","$5"],"default"]
+a:"/florart-demo/_next/static/chunks/01owvg3ntk037.js"
+b:I[98168,["$2","$3","$4","$5","$a"],"default"]
+c:I[37457,["$2","$3","$4","$5"],"default"]
+d:"/florart-demo/_next/static/chunks/3_gtx7kcy2umc.js"
+e:I[36768,["$2","$3","$4","$5","$d"],"default"]
+f:I[37323,["$2","$3","$4","$5"],"MotionRoot"]
+10:I[30023,["$2","$3","$4","$5"],"SiteFooter"]
+14:I[47257,["$2","$3","$4","$5"],"ClientPageRoot"]
+17:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:"ViewportBoundary"
+1b:I[97367,["$2","$3","$4","$5"],"$1a"]
+1d:"MetadataBoundary"
+1e:I[97367,["$2","$3","$4","$5"],"$1d"]
+20:I[68027,["$2","$3","$4","$5"],"default",1]
+:HL["/florart-demo/_next/static/chunks/1lsv8hlix_e90.css","style"]
+12:X
+13:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L14",null,{"Component":"$e","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@15","$@16"]}}],[["$","script","script-0",{"src":"/florart-demo/_next/static/chunks/3_gtx7kcy2umc.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$12"},"c":"$Q13"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/florart-demo/_next/static/chunks/1lsv8hlix_e90.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/florart-demo/_next/static/chunks/1dinyui0_qahb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/florart-demo/_next/static/chunks/1f3slhwgpkx_6.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/florart-demo/_next/static/chunks/3_mt4lsx5co6v.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/florart-demo/_next/static/chunks/2jwlz_nlmx9um.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"CM3n8W_variable _3wqnqW_variable -3mNba_variable","children":["$","body",null,{"className":"min-h-dvh bg-ivory text-ink antialiased","children":["$","$L6",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Перейти к содержимому"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","main",null,{"id":"main","className":"min-h-[60dvh]","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{"children":["$","$Lc",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/florart-demo/_next/static/chunks/01owvg3ntk037.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","$Le",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Lf",null,{}],["$","$L10",null,{}]]}]}]}]]}],"p":false,"v":null},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L1b",null,{"children":"$L1c"}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1f"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$20",[["$","link","0",{"rel":"stylesheet","href":"/florart-demo/_next/static/chunks/1lsv8hlix_e90.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"UYIEfjt1nwX06WbD5o4HK"}
+12:C
+15:{}
+16:"$13:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F2ECE1"}]]
+21:I[27201,["$2","$3","$4","$5"],"IconMark"]
+19:null
+1f:[["$","title","0",{"children":"Florart — Цветы говорят за вас"}],["$","meta","1",{"name":"description","content":"Florart — авторские букеты и цветочные композиции в Кишинёве с 1998 года. Концепт редизайна: каталог, Florart Moments, персональный флорист."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Florart — Цветы говорят за вас"}],["$","meta","4",{"property":"og:description","content":"Авторская флористика в Кишинёве с 1998 года."}],["$","meta","5",{"property":"og:locale","content":"ru_MD"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Florart — Цветы говорят за вас"}],["$","meta","9",{"name":"twitter:description","content":"Авторская флористика в Кишинёве с 1998 года."}],["$","link","10",{"rel":"icon","href":"/florart-demo/icon.svg"}],["$","$L21","11",{}]]

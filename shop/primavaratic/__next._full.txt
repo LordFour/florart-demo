@@ -1,22 +1,27 @@
 1:"$Sreact.fragment"
 2:"/florart-demo/_next/static/chunks/1dinyui0_qahb.js"
-3:"/florart-demo/_next/static/chunks/2tkchnsidx5pd.js"
-4:I[18589,["$2","$3"],"AppProvider"]
-5:I[9616,["$2","$3"],"SiteHeader"]
-6:I[39756,["$2","$3"],"default"]
-7:I[37457,["$2","$3"],"default"]
-8:"/florart-demo/_next/static/chunks/3_gtx7kcy2umc.js"
-9:I[36768,["$2","$3","$8"],"default"]
-a:I[37323,["$2","$3"],"MotionRoot"]
-b:I[30023,["$2","$3"],"SiteFooter"]
-11:I[97367,["$2","$3"],"OutletBoundary"]
-12:"$Sreact.suspense"
-14:"ViewportBoundary"
-15:I[97367,["$2","$3"],"$14"]
-17:"MetadataBoundary"
-18:I[97367,["$2","$3"],"$17"]
-1a:I[68027,["$2","$3"],"default",1]
-:HL["/florart-demo/_next/static/chunks/3s3ptnr-z2tha.css","style"]
+3:"/florart-demo/_next/static/chunks/1f3slhwgpkx_6.js"
+4:"/florart-demo/_next/static/chunks/3_mt4lsx5co6v.js"
+5:"/florart-demo/_next/static/chunks/2jwlz_nlmx9um.js"
+6:I[18589,["$2","$3","$4","$5"],"AppProvider"]
+7:I[9616,["$2","$3","$4","$5"],"SiteHeader"]
+8:I[52004,["$2","$3","$4","$5"],"ScrollProgress"]
+9:I[39756,["$2","$3","$4","$5"],"default"]
+a:"/florart-demo/_next/static/chunks/01owvg3ntk037.js"
+b:I[98168,["$2","$3","$4","$5","$a"],"default"]
+c:I[37457,["$2","$3","$4","$5"],"default"]
+d:"/florart-demo/_next/static/chunks/3_gtx7kcy2umc.js"
+e:I[36768,["$2","$3","$4","$5","$d"],"default"]
+f:I[37323,["$2","$3","$4","$5"],"MotionRoot"]
+10:I[30023,["$2","$3","$4","$5"],"SiteFooter"]
+16:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+17:"$Sreact.suspense"
+19:"ViewportBoundary"
+1a:I[97367,["$2","$3","$4","$5"],"$19"]
+1c:"MetadataBoundary"
+1d:I[97367,["$2","$3","$4","$5"],"$1c"]
+1f:I[68027,["$2","$3","$4","$5"],"default",1]
+:HL["/florart-demo/_next/static/chunks/1lsv8hlix_e90.css","style"]
 :HL["/florart-demo/_next/static/media/276a8f4fe816cb6b-s.p.2v2sz4qlut9s1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/florart-demo/_next/static/media/2810fda8f234eb20-s.p.2c0pkezzij_il.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/florart-demo/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -24,18 +29,17 @@ b:I[30023,["$2","$3"],"SiteFooter"]
 :HL["/florart-demo/_next/static/media/9eff0a3f1ba11d74-s.p.3aak_kra40y8r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/florart-demo/_next/static/media/fbb7028efdf70529-s.p.1_0gbi-gsbqmd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/florart-demo/_next/static/media/fdbf446d127afa2d-s.p.1xjn85gt7t6qs.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-d:X
-f:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L10",[["$","script","script-0",{"src":"/florart-demo/_next/static/chunks/19v3lya3ze-o8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/florart-demo/_next/static/chunks/1ml9dnyxnwac1.js","async":true,"nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":false,"v":null}}]]
-e:[["children",{"s":{"n":"slug","t":"d","k":"primavaratic","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$d"},"c":"$Qf"}]]
-c:[["children",{"s":"shop","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$d"},"c":"$Qe"}]]
-0:{"P":null,"c":["","shop","primavaratic",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/florart-demo/_next/static/chunks/3s3ptnr-z2tha.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/florart-demo/_next/static/chunks/1dinyui0_qahb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/florart-demo/_next/static/chunks/2tkchnsidx5pd.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"CM3n8W_variable _3wqnqW_variable -3mNba_variable","children":["$","body",null,{"className":"min-h-dvh bg-ivory text-ink antialiased","children":["$","$L4",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Перейти к содержимому"}],["$","$L5",null,{}],["$","main",null,{"id":"main","className":"min-h-[60dvh]","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L9",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}],["$","$Lb",null,{}]]}]}]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":"$L19"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1a",[["$","link","0",{"rel":"stylesheet","href":"/florart-demo/_next/static/chunks/3s3ptnr-z2tha.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"87K0p-6o4qlwt6DV499uV"}
-1b:"/florart-demo/_next/static/chunks/19v3lya3ze-o8.js"
-1c:"/florart-demo/_next/static/chunks/1ml9dnyxnwac1.js"
-1d:I[22016,["$2","$3","$1b","$1c"],""]
-1e:I[23036,["$2","$3","$1b","$1c"],"ProductDetail"]
-d:C
-10:["$","div",null,{"className":"container-x pb-32","children":[["$","nav",null,{"aria-label":"Навигация по страницам","className":"mb-10 text-body text-muted","children":["$","$L1d",null,{"href":"/shop","className":"text-ink underline underline-offset-4 hover:text-burgundy","children":"Каталог"}]}],["$","$L1e",null,{"id":"primavaratic"}]]}]
-16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F2ECE1"}]]
-1f:I[27201,["$2","$3"],"IconMark"]
-13:null
-19:[["$","title","0",{"children":"Весенний букет · Florart"}],["$","meta","1",{"name":"description","content":"Весенний букет — авторская флористика Florart. 1220 MDL."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Florart — Цветы говорят за вас"}],["$","meta","4",{"property":"og:description","content":"Авторская флористика в Кишинёве с 1998 года."}],["$","meta","5",{"property":"og:locale","content":"ru_MD"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Florart — Цветы говорят за вас"}],["$","meta","9",{"name":"twitter:description","content":"Авторская флористика в Кишинёве с 1998 года."}],["$","link","10",{"rel":"icon","href":"/florart-demo/icon.svg"}],["$","$L1f","11",{}]]
+12:X
+14:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L15",[["$","script","script-0",{"src":"/florart-demo/_next/static/chunks/1tjxuzr6az4pe.js","async":true,"nonce":"$undefined"}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":false,"v":null}}]]
+13:[["children",{"s":{"n":"slug","t":"d","k":"primavaratic","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$12"},"c":"$Q14"}]]
+11:[["children",{"s":"shop","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$12"},"c":"$Q13"}]]
+0:{"P":null,"c":["","shop","primavaratic",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/florart-demo/_next/static/chunks/1lsv8hlix_e90.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/florart-demo/_next/static/chunks/1dinyui0_qahb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/florart-demo/_next/static/chunks/1f3slhwgpkx_6.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/florart-demo/_next/static/chunks/3_mt4lsx5co6v.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/florart-demo/_next/static/chunks/2jwlz_nlmx9um.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"CM3n8W_variable _3wqnqW_variable -3mNba_variable","children":["$","body",null,{"className":"min-h-dvh bg-ivory text-ink antialiased","children":["$","$L6",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Перейти к содержимому"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","main",null,{"id":"main","className":"min-h-[60dvh]","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{"children":["$","$Lc",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/florart-demo/_next/static/chunks/01owvg3ntk037.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","$Le",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Lf",null,{}],["$","$L10",null,{}]]}]}]}]]}],"p":false,"v":null},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":"$L1e"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1f",[["$","link","0",{"rel":"stylesheet","href":"/florart-demo/_next/static/chunks/1lsv8hlix_e90.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"UYIEfjt1nwX06WbD5o4HK"}
+20:"/florart-demo/_next/static/chunks/1tjxuzr6az4pe.js"
+21:I[22016,["$2","$3","$4","$5","$20"],""]
+22:I[23036,["$2","$3","$4","$5","$20"],"ProductDetail"]
+12:C
+15:["$","div",null,{"className":"container-x pb-32","children":[["$","nav",null,{"aria-label":"Навигация по страницам","className":"mb-10 text-body text-muted","children":["$","$L21",null,{"href":"/shop","className":"text-ink underline underline-offset-4 hover:text-burgundy","children":"Каталог"}]}],["$","$L22",null,{"id":"primavaratic"}]]}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F2ECE1"}]]
+23:I[27201,["$2","$3","$4","$5"],"IconMark"]
+18:null
+1e:[["$","title","0",{"children":"Весенний букет · Florart"}],["$","meta","1",{"name":"description","content":"Весенний букет — авторская флористика Florart. 1220 MDL."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Florart — Цветы говорят за вас"}],["$","meta","4",{"property":"og:description","content":"Авторская флористика в Кишинёве с 1998 года."}],["$","meta","5",{"property":"og:locale","content":"ru_MD"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Florart — Цветы говорят за вас"}],["$","meta","9",{"name":"twitter:description","content":"Авторская флористика в Кишинёве с 1998 года."}],["$","link","10",{"rel":"icon","href":"/florart-demo/icon.svg"}],["$","$L23","11",{}]]

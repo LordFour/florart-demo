@@ -1,4 +1,4 @@
-:HL["/florart-demo/_next/static/chunks/3s3ptnr-z2tha.css","style"]
+:HL["/florart-demo/_next/static/chunks/1lsv8hlix_e90.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"87K0p-6o4qlwt6DV499uV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"UYIEfjt1nwX06WbD5o4HK","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
